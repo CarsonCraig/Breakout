@@ -1,5 +1,4 @@
-# Breakout
-Breakout Controls:
+# Breakout Controls:
 
 LEFT - Move Paddle Left
 
