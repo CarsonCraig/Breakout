@@ -1,10 +1,10 @@
 # Breakout
 Breakout Controls:
 
-LEFT -   Move Paddle Left
+LEFT - Move Paddle Left
 
-RIGHT -  Move Paddle Right
+RIGHT - Move Paddle Right
 
-A -      Move Ball Left
+A - Move Ball Left
 
-D -      Move Ball Right
+D - Move Ball Right
