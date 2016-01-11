@@ -6,10 +6,11 @@ Download an Executable JAR: [carsoncraig.github.io/projects](http://carsoncraig.
 
 &nbsp;
 
-LEFT - Move Paddle Left
+|Control|Purpose|
+|:-:|:-:|
+|LEFT                         | Move Paddle Left |
+|RIGHT           | Move Paddle Right|
+|A           | Move Ball Left |
+|D | Move Ball Right|
 
-RIGHT - Move Paddle Right
 
-A - Move Ball Left
-
-D - Move Ball Right
