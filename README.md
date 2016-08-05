@@ -1,10 +1,14 @@
-# Breakout Controls:
+# Breakout
+
+![screenshot](screenshot.jpg)
 
 &nbsp;
 
 Click [here](http://carsoncraig.me/jar/Breakout.jar) to download an executable JAR.
 
 &nbsp;
+
+## Controls:
 
 |Control|Purpose|
 |:-:|:-:|
