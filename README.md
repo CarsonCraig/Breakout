@@ -12,9 +12,9 @@ Click [here](http://carsoncraig.me/jar/Breakout.jar) to download an executable J
 
 |Control|Purpose|
 |:-:|:-:|
-|LEFT                         | Move Paddle Left |
-|RIGHT           | Move Paddle Right|
-|A           | Move Ball Left |
+|LEFT | Move Paddle Left |
+|RIGHT | Move Paddle Right|
+|A | Move Ball Left |
 |D | Move Ball Right|
 
 
