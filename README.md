@@ -4,7 +4,7 @@
 
 &nbsp;
 
-Click [here](http://carsoncraig.me/jar/Breakout.jar) to download an executable JAR.
+Click [here](http://carsoncraig.github.io/jar//jar/Breakout.jar) to download an executable JAR.
 
 &nbsp;
 
